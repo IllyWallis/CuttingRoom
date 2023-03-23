@@ -53,9 +53,13 @@ namespace CuttingRoom
 
         public void Start()
         {
-            if (Application.isPlaying || EditorApplication.isPlaying)
+            bool isPlaying = Application.isPlaying;
+#if UNITY_EDITOR
+            isPlaying = isPlaying || EditorApplication.isPlaying;
+#endif
+            if (isPlaying)
             {
-                sequencer = new(rootNarrativeObject, this, true);
+                sequencer = new(rootNarrativeObject, this);
                 sequencer.Start(rootCancellationToken.Token);
             }
         }
