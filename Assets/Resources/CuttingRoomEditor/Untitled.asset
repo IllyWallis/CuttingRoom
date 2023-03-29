@@ -15,8 +15,63 @@ MonoBehaviour:
   narrativeObjectNodeStates:
   - narrativeObjectGuid: 052dbea0-2e5e-428c-b239-927fc97a909c
     position: {x: 344.5, y: 167.5}
+  - narrativeObjectGuid: 390010b1-932d-4e9d-bb4b-5d335be26a57
+    position: {x: 128.8, y: 166.40001}
+  - narrativeObjectGuid: 5b1b2558-5b30-4cb7-9b03-09dd310d8262
+    position: {x: 389.6, y: 166.40001}
+  - narrativeObjectGuid: def71bdc-e55c-46a7-be30-c6b62bac729e
+    position: {x: 618.4, y: 166.40001}
+  - narrativeObjectGuid: 8b4c592b-fe43-45be-a067-ea54cc7dc537
+    position: {x: 27.2, y: 161.6}
+  - narrativeObjectGuid: e6a27836-36f1-498f-9be1-b180ed0b31fc
+    position: {x: 296.80002, y: 161.6}
+  - narrativeObjectGuid: 119d9101-805e-43b4-9842-9637a1e0440b
+    position: {x: 549.60004, y: 80.8}
+  - narrativeObjectGuid: c3fd45b9-e1c4-4820-99a1-ee77c8f997fa
+    position: {x: 549.60004, y: 248.8}
+  - narrativeObjectGuid: b1e9ac8d-e742-487b-a95b-4a8d790f42b8
+    position: {x: 102.399994, y: 163.2}
+  - narrativeObjectGuid: ae68d4df-cde4-48b6-8284-f7a384d3a347
+    position: {x: 380.80002, y: 163.2}
+  - narrativeObjectGuid: e8881685-0c8c-4e81-ba02-4cd8c37a5f6b
+    position: {x: 633.60004, y: 105.600006}
+  - narrativeObjectGuid: 039f060d-bea2-4ff5-a52a-502ed9d1b886
+    position: {x: 633.60004, y: 248.8}
+  - narrativeObjectGuid: 28b5a616-1ee6-4ac4-9e6d-0ffe2180868b
+    position: {x: 95.2, y: 249.59999}
+  - narrativeObjectGuid: 3fd8e5f5-1f13-4979-9475-48b02102438f
+    position: {x: 357.6, y: 249.59999}
+  - narrativeObjectGuid: 70e304e4-6f7f-4c7a-bebf-ce4ea2bbab53
+    position: {x: 839.2, y: 249.59999}
+  - narrativeObjectGuid: a9599db9-2776-4fd6-8f31-8f4999c9e34a
+    position: {x: 594.4, y: 249.59999}
+  - narrativeObjectGuid: d11ef95b-fb70-4a46-a223-f28208f7e0f8
+    position: {x: 594.4, y: 433.59998}
   viewContainerStates:
   - narrativeObjectGuid: 0
-    narrativeObjectNodeGuids: []
+    narrativeObjectNodeGuids:
+    - 390010b1-932d-4e9d-bb4b-5d335be26a57
+    - 5b1b2558-5b30-4cb7-9b03-09dd310d8262
+    - def71bdc-e55c-46a7-be30-c6b62bac729e
+  - narrativeObjectGuid: 390010b1-932d-4e9d-bb4b-5d335be26a57
+    narrativeObjectNodeGuids:
+    - 8b4c592b-fe43-45be-a067-ea54cc7dc537
+    - e6a27836-36f1-498f-9be1-b180ed0b31fc
+    - 119d9101-805e-43b4-9842-9637a1e0440b
+    - c3fd45b9-e1c4-4820-99a1-ee77c8f997fa
+  - narrativeObjectGuid: 5b1b2558-5b30-4cb7-9b03-09dd310d8262
+    narrativeObjectNodeGuids:
+    - b1e9ac8d-e742-487b-a95b-4a8d790f42b8
+    - ae68d4df-cde4-48b6-8284-f7a384d3a347
+    - e8881685-0c8c-4e81-ba02-4cd8c37a5f6b
+    - 039f060d-bea2-4ff5-a52a-502ed9d1b886
+  - narrativeObjectGuid: def71bdc-e55c-46a7-be30-c6b62bac729e
+    narrativeObjectNodeGuids:
+    - 28b5a616-1ee6-4ac4-9e6d-0ffe2180868b
+    - 3fd8e5f5-1f13-4979-9475-48b02102438f
+    - 70e304e4-6f7f-4c7a-bebf-ce4ea2bbab53
+    - a9599db9-2776-4fd6-8f31-8f4999c9e34a
+    - d11ef95b-fb70-4a46-a223-f28208f7e0f8
   viewContainerStackGuids:
+  - 390010b1-932d-4e9d-bb4b-5d335be26a57
   - 0

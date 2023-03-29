@@ -9,6 +9,8 @@
     width: 100%;
     justify-content: space-between;
     padding: 10%;
+    height: 100px;
+    margin-top: 10px;
 }
 
 .button {
@@ -28,6 +30,9 @@
     border-bottom-width: 0;
     transition-duration: 0.2s;
     transition-timing-function: ease-in-out-bounce;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 .button:hover {
