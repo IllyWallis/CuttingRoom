@@ -94,7 +94,7 @@ public class HandTracking : MonoBehaviour
         print(xPosition);
 
 
-        // cursor stuff, broken,cool but might delete because :hover doesnt work with it
+        // cursor stuff // doesn't work with :hover
         for (int i = 0; i < pastPosition.Length -1; i++)
         {
             pastPosition[i] = pastPosition[i + 1];
@@ -108,7 +108,7 @@ public class HandTracking : MonoBehaviour
             SetCursorPos((int) tmpScreenPos.x+ 175, Screen.height - (int) tmpScreenPos.y +140);
         } //
 
-        // modifying css of first game using hand
+        
 
         if(xPosition < 0)
         {

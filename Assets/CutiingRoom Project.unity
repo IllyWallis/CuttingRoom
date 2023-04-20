@@ -4666,8 +4666,8 @@ MonoBehaviour:
   - {fileID: 622168105}
   hand: {fileID: 613710083}
   xPosition: 0
-  leftWall: {fileID: 0}
-  rightWall: {fileID: 0}
+  leftWall: {fileID: 364975175}
+  rightWall: {fileID: 2094034345}
 --- !u!114 &1040619777
 MonoBehaviour:
   m_ObjectHideFlags: 0
